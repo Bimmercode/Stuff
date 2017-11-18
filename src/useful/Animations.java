@@ -1,4 +1,4 @@
-package softwaretechnik;
+package useful;
 
 import javax.swing.JLabel;
 import javax.swing.JSeparator;

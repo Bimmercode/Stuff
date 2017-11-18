@@ -1,4 +1,4 @@
-package softwaretechnik;
+package useful;
 
 public class Start {
 
